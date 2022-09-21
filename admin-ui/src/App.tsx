@@ -43,6 +43,7 @@ const App = (): React.ReactElement => {
   }
   return (
     <div className="App">
+      <div>Santheep</div>
       <Admin
         title={"Sample service"}
         dataProvider={dataProvider}
